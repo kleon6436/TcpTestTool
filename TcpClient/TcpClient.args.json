@@ -1,0 +1,18 @@
+{
+  "FileVersion": 2,
+  "Id": "db776337-4bff-42dc-b290-a7f9ec6de7a1",
+  "Items": [
+    {
+      "Id": "54ef3320-85a0-4504-8b35-f5541d675d13",
+      "Command": "-p 6060 "
+    },
+    {
+      "Id": "6d188633-8ce9-4f96-a638-d64841327eda",
+      "Command": "-m test"
+    },
+    {
+      "Id": "a2ddd8a7-6983-4cb6-873b-ba781fe29bfb",
+      "Command": "--ip localhost  "
+    }
+  ]
+}

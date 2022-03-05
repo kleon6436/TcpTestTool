@@ -1,0 +1,19 @@
+# Visual studio settings
+.vs/
+*.StyleCop
+*.user
+
+# Packages
+packages/
+properties/
+
+# build
+x64/
+x86/
+Release/
+Debug/
+obj/
+bin/
+
+# JetBrains settings
+.idea/
